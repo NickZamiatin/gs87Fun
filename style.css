@@ -1,0 +1,18 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  background-image: url("https://developers.giphy.com/static/img/api.c99e353f761d.gif");
+  background-color: cover;
+};
+
+
+h1 {
+  font-size: 96;
+
+}
+
+ul {
+  list-style: none;
+  font-size: 77;
+  color:  white;
+}
